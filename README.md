@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/jin930303"
-  width="600"
-  height="300"
-/>
+  <img src="https://render.gitanimals.org/farms/{jin930303}"/>
 </a>
 
 ![jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin930303&show_icons=true&theme=tokyonight)
